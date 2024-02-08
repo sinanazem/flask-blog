@@ -3,7 +3,7 @@
 
 ---
 
-Blog-Flask is a simple web application built using Flask, a lightweight WSGI web application framework in Python. It allows users to create, read, update, and delete blog posts.
+flask-blog is a simple web application built using Flask, a lightweight WSGI web application framework in Python. It allows users to create, read, update, and delete blog posts.
 
 ## Features
 
